@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@grzegorzbanaszak/my-first-package",
+  "name": "@voids105/my-first-package",
   "author": "GrzegorzBanaszak",
   "module": "dist/my-first-package.esm.js",
   "size-limit": [
